@@ -1,0 +1,19 @@
+{
+  "name": "stronger2-node-react",
+  "version": "1.0.0",
+  "description": "I used Homebrew to install Node. Before starting, I like to run the following commands...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codrkai/node_react_tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codrkai/node_react_tutorial/issues"
+  },
+  "homepage": "https://github.com/codrkai/node_react_tutorial#readme"
+}
