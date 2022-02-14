@@ -1,3 +1,12 @@
+Samapriya edit: 
+
+Run React server from /frontend:
+npm start
+
+Run Node server from /backend:
+node index.js
+
+_____________________________________________________________________________________
 # Node and React JS Tutorial
 # Frontend and Backend setup with page routing
 
